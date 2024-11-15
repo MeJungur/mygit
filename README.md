@@ -1,2 +1,2 @@
-# mygit
-연습
+# QuizGame
+QuizGame
